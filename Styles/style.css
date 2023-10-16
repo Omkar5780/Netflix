@@ -1,0 +1,128 @@
+/* body{
+    background-color: rgb(39, 37, 37);
+} */
+.main {
+
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/fc164b4b-f085-44ee-bb7f-ec7df8539eff/d23a1608-7d90-4da1-93d6-bae2fe60a69b/IN-en-20230814-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+    background-size: 100% 100vh;
+    background-color: black;
+    margin: 5px;
+    /* color: black; */
+   
+    height: 650px;
+    text-align: center;
+    color: aliceblue;
+    /* display: flex; */
+    /* background-color: black; */
+  
+
+}
+section{
+    background-color: gray;
+}
+
+
+.second {
+    /* width: 500px; */
+    padding: 150px;
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    margin: 5px;
+    
+
+}
+
+#fra {
+    flex: 8;
+    margin-top: 50px;
+    font-family: sans-serif;
+    /* font-size: 20px; */
+}
+#fra p{
+    font-family: sans-serif;
+}
+
+#frame {
+    flex: 2;
+   
+}
+
+.content {
+    margin-top: 200px;
+    /* margin: 0; */
+    /* font-size: 2rem; */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
+    font-weight: 700;
+    /* margin: 15px; */
+}
+
+#get {
+    background-color: crimson;
+    padding: 15px;
+    border-radius: 5px;
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+#get:hover{
+    background-color: rgb(134, 34, 59) ;
+}
+.fourth{
+    display: flex;
+    background-color: black;
+    height: 500px;
+}
+#sect{
+    color: white;
+    margin-top: 200px;
+    margin-left: 150px;
+    font-family: sans-serif;
+    font-size: 20px;
+    
+}
+#ipad{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.third {
+       margin: 5px;     
+    background-color: black;
+    display: flex;
+
+}
+
+.mobile {
+    flex: 7;
+}
+
+.format {
+    flex: 7;
+    color: aliceblue;
+    padding-top: 150px;
+    font-family: sans-serif;
+    font-size: 30px;
+
+}
+.fourth{
+    margin: 5px;
+    /* background-color: black; */
+   
+}
+.fifth{
+    display: flex;
+    background-color: black;
+    color: white;
+    margin: 5px;
+}
+#conten{
+    margin-top: 100px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.sixth{
+    margin: 5px;
+    background-color: black;
+    color: white;
+}
